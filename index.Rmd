@@ -1,0 +1,14 @@
+---
+title: "Análisis de datos covid 19 CR"
+author: "Pablo César Quirós R"
+date: '2022-05-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Presentación  
+Este documento presenta varios gráficos estadísticos de los datos de COVID-19 en Costa Rica publicados por el Ministerio de Salud en https://geovision.uned.ac.cr/oges/. Los gráficos han sido generados con funciones del paquete base del lenguaje de programación R.
+
